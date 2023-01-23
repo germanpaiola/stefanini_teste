@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hibernate-core-6.2.0.CR1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.orm/hibernate-core/6.2.0.CR1/48eedf941acd20b8a7507589850b23e92ea06b12/hibernate-core-6.2.0.CR1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
